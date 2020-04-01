@@ -11,13 +11,22 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="36sp"
         android:text="TypogrÂphy" />
 
     <TextView
         android:id="@+id/tvText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:text="TypogrÂphy" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:fontFamily="@font/notoserif"
+        android:textStyle="bold"
+        android:textSize="36sp"
         android:text="TypogrÂphy" />
 
 </LinearLayout>
